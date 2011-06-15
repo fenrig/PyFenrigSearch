@@ -1,0 +1,11 @@
+AUTHOR: 
+<maregt0@gmail.com>
+
+DESCRIPTION:
+Simulation Project where Google Search gets analyzed. Just a simulation no more.
+
+DEPENDENCIES:
+- Python 2.7
+- html5lib
+- lepl
+- urlparse
