@@ -9,3 +9,8 @@ DEPENDENCIES:
 - html5lib
 - lepl
 - urlparse
+
+ROADMAP: No plans real plans yet
+1) Crawler
+   - Crawling works
+   - Parse Content Tree (in progress)
